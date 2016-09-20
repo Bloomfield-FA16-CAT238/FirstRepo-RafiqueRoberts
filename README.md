@@ -4,9 +4,9 @@
 ![](http://10bestquotes.com/wp-content/uploads/2016/06/Little-girl-.jpg)
 
 `There! little girl; don't cry!
-**They have broken your doll, I know;**
-*And your tea-set blue,*
-**And _your play-house_, too,**
+They have broken your doll, I know;
+And your tea-set blue,
+And your play-house, too,
 Are things of the long ago;
 But childish troubles will soon pass by.
 There! little girl; don't cry!`
@@ -23,10 +23,10 @@ There! little girl; don't cry!
 
 
 ~~There! little girl; don't cry!~~
-They have broken your heart I know;
-And the rainbow gleams
+**They have broken your heart I know;**
+**And the _rainbow_ gleams**
 Of your youthful dreams
-Are things of the long ago;
+*Are things of the long ago;*
 But Heaven holds all for which you sigh.
 There! little girl; don't cry!
 

@@ -48,6 +48,6 @@ This peom was taken from [100 Best Poems] (http://100.best-poems.net/life-lesson
 
 ####To-do List
 
-- [x]Go home :smile:
-- [x]Take a shower :blush:
-- [ ]Do homework :sob:
+- [x] Go home :smile:
+- [x] Take a shower :blush:
+- [ ] Do homework :sob:
